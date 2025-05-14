@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "AvantagesDi",
-         url: "/Users/b678jt/Desktop/forIos/AvantagesDi/AvantagesDi.xcframework.zip",
+         url: "https://github.com/marcgilbert01/AxaKmpIosShared/blob/main/AvantagesDi.xcframework.zip",
          checksum:"e1731aa7c0738b1e1191564eb139827f088aaa4076260ba2105121dbf31541ea")
    ]
 )
